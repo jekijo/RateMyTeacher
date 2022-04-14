@@ -1,3 +1,4 @@
+from SK import key
 """
 Django settings for rate_my_teacher project.
 
